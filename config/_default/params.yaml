@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: dhrubjyoti.biswas@gmail.com
+phone: +61 413 699 829
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: U11 217-221 Carlingford Road
+  city: Carlingford
+  state: NSW
+  postcode: '2118'
+  country: Australia
+  country_code: AU
 coordinates:
   latitude: '37.4275'
   longitude: '-122.1697'
