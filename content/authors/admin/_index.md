@@ -27,15 +27,9 @@ organizations:
     url: https://www.hcltech.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor of Technology (Electronic and Communication Engineering)
+      institution: West Bengal University of Technology
+      year: 2007
 superuser: true
 highlight_name: false
 title: Dhrubajyoti Biswas
