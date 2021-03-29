@@ -1,9 +1,6 @@
 ---
 widget: accomplishments
-headless: true
-weight: 50
-title: Accomplishments
-subtitle: null
+active: true
 date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
@@ -31,4 +28,8 @@ item:
     title: "Object-Oriented Programming in R: S3 and R6 Course"
     url: ""
 widget_id: "1"
+headless: true
+weight: 50
+title: Accomplishments
+subtitle: null
 ---
