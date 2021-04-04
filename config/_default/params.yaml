@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: raw
-day_night: true
+theme: forest
+day_night: false
 font: ''
 font_size: S
 
