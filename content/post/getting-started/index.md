@@ -12,7 +12,7 @@ authors:
   - dhrub
 lastmod: 2020-12-13T00:00:00Z
 tags:
-  - AWS
+  - AWS SolArc
 categories:
   - AWS
 projects: []
@@ -83,9 +83,6 @@ image:
 
 ```
 
-![](https://miro.medium.com/max/60/1*yFuWVumZm4PCh_95ZmMOWQ.png?q=20)
-
-![](https://miro.medium.com/max/1832/1*yFuWVumZm4PCh_95ZmMOWQ.png)
 
 ## [Cloud Storage Classes — Amazon Simple Storage Service (S3) — AWS](https://aws.amazon.com/s3/storage-classes/)
 
@@ -194,9 +191,6 @@ image:
 
 * *Remember Cloudwatch now is not only to display metrics but you can also push application logs via Cloudwatch agents*
 
-![](https://miro.medium.com/max/36/1*CwLjSXme7pFbMyjgqoHcQA.png?q=20)
-
-![](https://miro.medium.com/max/374/1*CwLjSXme7pFbMyjgqoHcQA.png)
 
 ## [What is Amazon CloudWatch Logs? — Amazon CloudWatch Logs](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html)
 
