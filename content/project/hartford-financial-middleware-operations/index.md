@@ -8,10 +8,9 @@ summary: The Hartford is a Fortune 100 company and one of America’s largest
 draft: false
 featured: false
 external_link: https://www.thehartford.com/
-links:
-  - url: https://www.thehartford.com/
+links: []
 image:
-  filename: featured
+  filename: null
   focal_point: Smart
   preview_only: false
 ---
