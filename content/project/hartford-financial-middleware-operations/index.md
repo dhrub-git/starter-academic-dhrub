@@ -7,6 +7,8 @@ summary: The Hartford is a Fortune 100 company and one of America’s largest
   investment and insurance companies.
 draft: false
 featured: false
+tags:
+  - Oracle
 external_link: https://www.thehartford.com/
 links: []
 image:
