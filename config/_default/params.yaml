@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: raw
 day_night: true
 font: ''
 font_size: S
@@ -34,22 +34,22 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/DhrubBiswas'
   - icon: linkedin
     icon_pack: fab
     name: Follow Me
-    link: 'skype:echo123?call'
+    link: 'https://www.linkedin.com/in/dhrubajyotibiswas/'
 
 # Site header
 
 main_menu:
   enable: true
-  align: l0
+  align: l00
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
-  highlight_active_link: true
+  highlight_active_link: false
 
 # Localization
 
@@ -89,7 +89,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: ''
 abstract_length: 135
 plugins_js: []
 avatar:
