@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: GM ONStar Operations
+title: GM OnStar Operations
 summary: >-
   General Motor, U.S. OnStar is a Cellular Telephone/GPS satellite-based,
   vehicle integrated hardware
