@@ -6,17 +6,30 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
   - description: 100%
-    icon: chart-line
+    icon: project-diagram
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Digital Transformation
+  - description: 90%
+    icon: database
     icon_pack: fas
-    name: Photography
+    name: Data Engineering
+  - description: 90%
+    icon: archway
+    icon_pack: fas
+    name: Solution Architecture   
+  - description: 80%
+    icon: amazon
+    icon_pack: fab
+    name: Amazon Web Services
+  - description: 90%
+    icon: microsoft
+    icon_pack: fab
+    name: Microsoft Azure
+  - description: 70%
+    icon: google
+    icon_pack: fab
+    name: Google Cloud Platform    
+    
 active: true
 ---
