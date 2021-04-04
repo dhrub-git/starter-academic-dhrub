@@ -27,10 +27,22 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+ - name: Solution Architecture
+    tag: SolArc
+ - name: AWS
+    tag: AWS
+ - name: Azure
+    tag: Azure
+ - name: GCP
+    tag: GCP   
+ - name: Oracle
+    tag: Oracle      
+- name: Data Engineering
+    tag: DataEng
+- name: Operations
+    tag: Operations
+ - name: Other
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
