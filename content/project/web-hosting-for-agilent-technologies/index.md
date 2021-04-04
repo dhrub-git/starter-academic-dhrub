@@ -21,7 +21,7 @@ categories:
   - AWS
 external_link: https://www.agilent.com/
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
