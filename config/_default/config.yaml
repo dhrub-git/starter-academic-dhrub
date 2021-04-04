@@ -5,7 +5,7 @@
 
 title: Dhrubajyoti Biswas # Website name
 baseurl: 'https://dhrub.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '@ Dhrubajyoti Biswas, Solution Architect' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
