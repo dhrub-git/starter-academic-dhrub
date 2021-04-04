@@ -19,7 +19,6 @@ tags:
   - Oracle
 categories:
   - AWS
-external_link: /agilent
 image:
   filename: featured.jpg
   focal_point: Smart
