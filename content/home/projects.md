@@ -27,21 +27,21 @@ content:
   filter_button:
   - name: All
     tag: '*'
- - name: Solution Architecture
+  - name: Solution Architecture
     tag: SolArc
- - name: AWS
+  - name: AWS
     tag: AWS
- - name: Azure
+  - name: Azure
     tag: Azure
- - name: GCP
+  - name: GCP
     tag: GCP   
- - name: Oracle
+  - name: Oracle
     tag: Oracle      
-- name: Data Engineering
+  - name: Data Engineering
     tag: DataEng
-- name: Operations
+  - name: Operations
     tag: Operations
- - name: Other
+  - name: Other
     tag: Other
 
 design:
@@ -53,7 +53,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
