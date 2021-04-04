@@ -1,6 +1,7 @@
 ---
+title: Dhrubajyoti Biswas
 role: Lead Solutions Architect
-avatar_filename: dhrub_pp.jpg
+avatar_filename: avatar.jpg
 bio: Competent TOGAF 9.1 Certified ICT professional with experience of 14+ years
   spanning multiple industries and global accounts
 interests:
@@ -30,10 +31,9 @@ education:
     - course: Bachelor of Technology (Electronic and Communication Engineering)
       institution: West Bengal University of Technology
       year: 2007
+email: ""
 superuser: true
 highlight_name: false
-title: Dhrubajyoti Biswas
-email: ""
 ---
 Currently spearheading at HCL Australia Pty. Ltd. as Solution Architect.
 
