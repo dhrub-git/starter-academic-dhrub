@@ -18,6 +18,7 @@ interests:
   - Architecture Governance & Planning
   - Private & Public Cloud
   - Hybrid Cloud & On- Premise to SAAS Integration
+  - Transfromation using Low/No Code Platfroms like Power Platfrom/App Maker
   - Mergers & Acquisitions
 social:
   - icon: envelope
