@@ -6,12 +6,8 @@ bio: Competent TOGAF 9.1 Certified ICT professional with experience of 14+ years
   spanning multiple industries and global accounts
 interests:
   - Digital Transformation
-  - Cloud Transformation (IAAS
-  - PAAS and SAAS) Big Data
-  - Advanced Analytics
-  - ML
-  - AI
-  - and Robotics Process Automation
+  - Cloud Transformation (IAAS/PAAS and SAAS)
+  - Big Data/Advanced Analytics/ML/AI and Robotics Process Automation
   - Microservices & Serverless Architectures
   - Enterprise Architecture
   - Solutions Architecture
