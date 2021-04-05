@@ -2,8 +2,7 @@
 title: Modernisation of Concessions Systems for Transport of NSW
 subtitle: Modernisation of all the Concessions Systems and Subsystems from the
   Legacy Technology stack to the new stable and reliable landscape
-tags:
-  - ["SolArc", "BE", "Oracle"]   
+tags: ["SolArc", "BE", "Oracle"]   
 date: 2021-04-04T23:49:01.703Z
 draft: false
 featured: false

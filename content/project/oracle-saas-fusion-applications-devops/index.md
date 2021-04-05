@@ -2,8 +2,7 @@
 title: Oracle SaaS Fusion Applications DevOps
 subtitle: Overseeing the Fusion Applications SaaS/PaaS Fleet with a focus on
   Application and Infrastructure Performance and Scalability
-tags:
-  - ["SolArc", "Oracle", "DataEng", "DevOps"]   
+tags: ["SolArc", "Oracle", "DataEng", "DevOps"]   
 date: 2021-04-04T10:53:56.312Z
 summary: ""
 draft: false
