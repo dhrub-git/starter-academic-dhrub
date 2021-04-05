@@ -2,6 +2,8 @@
 title: Hartford Financial Middleware Operations
 subtitle: The Hartford is a Fortune 100 company and one of America’s largest
   investment and insurance companies.
+tags:
+  - ["SolArc", "Oracle"]    
 date: 2021-04-04T02:42:52.732Z
 summary: The Hartford is a Fortune 100 company and one of America’s largest
   investment and insurance companies.

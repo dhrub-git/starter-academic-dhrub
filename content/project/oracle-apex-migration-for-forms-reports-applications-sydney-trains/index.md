@@ -4,6 +4,8 @@ subtitle: Multiple applications of the Application Portfolio of Sydney Trains
   are running on Oracle Forms and Reports and due to the end of life of the
   technology, it needs to be migrated to Oracle Application Express and
   JasperReports.
+tags:
+  - ["SolArc", "Oracle", "DataEng"]    
 date: 2021-04-04T23:37:13.255Z
 summary: >-
   Multiple applications of the Application Portfolio of Sydney Trains are

@@ -12,7 +12,7 @@ subtitle: General Motor, U.S. OnStar is a Cellular Telephone/GPS
   satellite-based, vehicle integrated hardware and services that deliver
   unsurpassed levels of safety, security and peace of mind to vehicle owners.
 tags:
-  - Operations
+  - ["Operations", "Oracle"]  
 links: []
 image:
   caption: Photo by rawpixel on Unsplash

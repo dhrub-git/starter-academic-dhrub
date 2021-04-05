@@ -33,16 +33,19 @@ content:
     tag: AWS
   - name: Azure
     tag: Azure
-  - name: GCP
-    tag: GCP   
   - name: Oracle
-    tag: Oracle      
+    tag: Oracle    
+  - name: DevOps
+    tag: DevOps     
   - name: Data Engineering
     tag: DataEng
+  - name: FrontEnd Dev
+    tag: FE    
+  - name: BackEnd Dev
+    tag: BE  
   - name: Operations
     tag: Operations
-  - name: Other
-    tag: Other
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

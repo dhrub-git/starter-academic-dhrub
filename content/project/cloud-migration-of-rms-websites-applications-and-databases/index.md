@@ -3,6 +3,8 @@ title: Cloud Migration of RMS Websites, applications and databases
 subtitle: Mitigate the risk of RMS Digital Websites and Applications’ future
   sustainability in the on-prem data center by migrating it to TfNSW owned,
   endorsed and managed  Amazon Web Services (AWS) account.
+tags:
+  - ["SolArc", "AWS", "DataEng", "DevOps"]  
 date: 2021-04-04T23:53:38.178Z
 draft: false
 featured: false
