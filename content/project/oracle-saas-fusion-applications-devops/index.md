@@ -6,7 +6,7 @@ date: 2021-04-04T10:53:56.312Z
 summary: ""
 draft: false
 featured: false
-external_link: https://www.oracle.com/au/applications/
+
 image:
   filename: featured
   focal_point: Smart

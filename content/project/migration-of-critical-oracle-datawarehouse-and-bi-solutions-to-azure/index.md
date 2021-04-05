@@ -4,7 +4,7 @@ subtitle: Migration of critical Oracle Datawarehouse and BI solutions to Azure
 date: 2021-04-04T23:59:36.478Z
 draft: false
 featured: false
-external_link: /
+
 image:
   filename: featured
   focal_point: Smart

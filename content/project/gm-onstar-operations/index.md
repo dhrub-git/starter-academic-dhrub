@@ -7,7 +7,6 @@ summary: >-
   and services that deliver unsurpassed levels of safety, security and peace of mind to vehicle owners.
 url_video: ""
 date: 2016-04-27T00:00:00Z
-external_link: https://www.onstar.com/
 url_slides: ""
 subtitle: General Motor, U.S. OnStar is a Cellular Telephone/GPS
   satellite-based, vehicle integrated hardware and services that deliver

@@ -10,7 +10,7 @@ subtitle: Multiple environments have a very high cost of ownership, is complex,
 date: 2021-04-04T23:41:15.801Z
 draft: false
 featured: false
-external_link: /
+
 image:
   filename: featured
   focal_point: Smart

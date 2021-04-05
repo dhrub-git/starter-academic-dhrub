@@ -9,7 +9,6 @@ draft: false
 featured: false
 tags:
   - Oracle
-external_link: https://www.thehartford.com/
 links: []
 image:
   filename: null

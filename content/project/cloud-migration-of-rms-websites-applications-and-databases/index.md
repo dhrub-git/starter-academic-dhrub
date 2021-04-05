@@ -6,7 +6,7 @@ subtitle: Mitigate the risk of RMS Digital Websites and Applications’ future
 date: 2021-04-04T23:53:38.178Z
 draft: false
 featured: false
-external_link: /
+
 image:
   filename: featured
   focal_point: Smart

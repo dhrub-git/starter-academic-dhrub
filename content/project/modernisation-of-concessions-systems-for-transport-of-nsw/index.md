@@ -5,7 +5,7 @@ subtitle: Modernisation of all the Concessions Systems and Subsystems from teh
 date: 2021-04-04T23:49:01.703Z
 draft: false
 featured: false
-external_link: /
+
 image:
   filename: featured
   focal_point: Smart

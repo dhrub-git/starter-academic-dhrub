@@ -12,7 +12,7 @@ summary: >-
   the end of life of the technology, it needs to be migrated to Oracle Application Express and JasperReports.
 draft: false
 featured: false
-external_link: /
+
 image:
   filename: featured
   focal_point: Smart
