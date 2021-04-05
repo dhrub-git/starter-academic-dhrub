@@ -17,8 +17,6 @@ summary: >-
   market capitalization of over 10 billion USD and the company's headquarters are in Santa Clara, California.
 draft: false
 featured: false
-tags:
-  - Oracle
 categories:
   - AWS
 image:
