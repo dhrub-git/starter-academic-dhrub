@@ -9,7 +9,7 @@ summary: Welcome 👋 We know that first impressions are important, so we've
 draft: false
 featured: false
 authors:
-  - dhrub
+  - Dhrub
 lastmod: 2020-12-13T00:00:00.000Z
 tags:
   - AWS
