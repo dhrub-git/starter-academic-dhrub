@@ -9,6 +9,8 @@ summary: DevOps transformation, or simply evaluating the capabilities required
   questions you should ask yourself.
 draft: false
 featured: false
+authors:
+  - Dhrub
 tags:
   - DevOps
   - AWS
