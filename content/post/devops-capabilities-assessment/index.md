@@ -13,6 +13,8 @@ tags:
   - DevOps
   - AWS
   - Azure
+categories:
+  - DevOps
 image:
   filename: featured.jpg
   focal_point: Smart
