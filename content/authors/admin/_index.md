@@ -48,6 +48,12 @@ email: dhrubjyoti.biswas@gmail.com
 superuser: true
 highlight_name: false
 ---
+![](togaf.png)
+
+![](aws-solarchitect-associate-2020.png)
+
+![](azure-solutions-architect-expert-288x300.png)
+
 ###### Currently spearheading at HCL Australia Pty. Ltd. as Solution Architect.
 
 * Working as a Consultant with a specialization in the areas of Enterprise, Business, Solutions, Integration, Applications, Infrastructure, and Information & Data Architectures.
