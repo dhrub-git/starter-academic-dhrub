@@ -5,7 +5,7 @@ subtitle: Agilent Technologies or Agilent, is a company that designs and
   equipment for measurement and evaluation. Agilent Technologies has a stock
   market capitalization of over 10 billion USD and the company's headquarters
   are in Santa Clara, California.
-tags: ["SolArc", "Oracle", "DevOps"]    
+tags: ["SolArc", "Oracle", "DevOps", "AD"]    
 date: 2021-04-04T06:05:03.496Z
 summary: >-
   Agilent Technologies or Agilent, is a company that designs and manufactures

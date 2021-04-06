@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Solution Architecture
+  - name: Architecture
     tag: SolArc
   - name: AWS
     tag: AWS
@@ -39,10 +39,8 @@ content:
     tag: DevOps     
   - name: Data Engineering
     tag: DataEng
-  - name: FrontEnd Dev
-    tag: FE    
-  - name: BackEnd Dev
-    tag: BE  
+  - name: App Dev
+    tag: AD     
   - name: Operations
     tag: Operations
 

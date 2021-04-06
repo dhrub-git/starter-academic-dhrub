@@ -7,7 +7,7 @@ subtitle: Multiple environments have a very high cost of ownership, is complex,
   will redesign infrastructure to ensure high availability and scalability and
   improved  workflow based process, to manage Application management including
   on boarding of new applications.
-tags: ["SolArc", "FE", "BE", "DevOps"]   
+tags: ["SolArc", "AD", "DevOps"]   
 date: 2021-04-04T23:41:15.801Z
 draft: false
 featured: false
