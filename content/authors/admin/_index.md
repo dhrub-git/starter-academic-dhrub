@@ -48,8 +48,6 @@ email: dhrubjyoti.biswas@gmail.com
 superuser: true
 highlight_name: false
 ---
-![](togaf.png)
-
 ###### Currently spearheading at HCL Australia Pty. Ltd. as Solution Architect.
 
 * Working as a Consultant with a specialization in the areas of Enterprise, Business, Solutions, Integration, Applications, Infrastructure, and Information & Data Architectures.
