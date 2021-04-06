@@ -9,6 +9,10 @@ summary: DevOps transformation, or simply evaluating the capabilities required
   questions you should ask yourself.
 draft: false
 featured: false
+tags:
+  - DevOps
+  - AWS
+  - Azure
 image:
   filename: featured.jpg
   focal_point: Smart
