@@ -34,39 +34,39 @@ experience:
     company: Oracle India Pvt. Ltd.
     company_url: ''
     location: Delhi, IN
-    date_start: '2014-06-10'
-    date_end: '2016-08-14'
+    date_start: '2014-07-24'
+    date_end: '2016-08-12'
     description: Responsible for overseeing the Fusion Applications SaaS/PaaS Fleet with a focus on Application and Infrastructure Performance and Scalability.
 
   - title: Senior Consultant
     company: HCL Technologies Limited
     company_url: ''
     location: Delhi, IN
-    date_start: '2013-05-10'
-    date_end: '2014-06-08'
+    date_start: '2013-06-03'
+    date_end: '2014-07-23'
     description: Providing Solutions and Support for different IT Project in terms of Web, Middleware and hosting infrastructure for large scale Web, HRMS, CRM, Licensing Enterprise Applications.
 
   - title: Lead Consultant
     company: Headstrong Genpact
     company_url: ''
     location: Delhi, IN
-    date_start: '2014-06-10'
-    date_end: '2016-08-14'
+    date_start: '2011-09-12'
+    date_end: '2013-05-31'
     description: Providing technical support for the applications hosted on different application servers like; WebLogic 10.3 – 11g, OAS 10g, Tomcat 5.0, Apache2.2.x and IIS for catering Enterprise Application like – Web, HRMS, Seibel (CRM) and SOA for various integrations of these Applications.
 
   - title: Technical Services Professional
     company: IBM India Pvt. Ltd.
     company_url: ''
     location: Delhi, IN
-    date_start: '2014-06-10'
-    date_end: '2016-08-14'
+    date_start: '2010-07-12'
+    date_end: '2011-09-06'
     description: Technical analyst in Oracle Weblogic Application Server support, Production monitoring and fine-tuning configuration. 
 
   - title: Software Engineer
     company: Mphasis India Pvt. Ltd.
     company_url: ''
     location: Delhi, IN
-    date_start: '2014-06-10'
-    date_end: '2016-08-14'
+    date_start: '2007-07-23'
+    date_end: '2010-07-09'
     description: The building, deploying, configuring and monitoring WebLogic Server Domains, Managed and Admin Servers, clusters, JDBC connection pools/Data sources, JMS Server and Modules.            
 ---
