@@ -20,10 +20,7 @@ url_code: ""
 ---
 The roles and responsibilities were as below :
 
-
-• The building, deploying, configuring and monitoring WebLogic Server Domains, Managed and Admin Servers, clusters,
-JDBC connection pools/Data sources, JMS Server and Modules.
-• Handling Break fixing tasks like Password resets/Disk space maintenance/Re-running the Jobs/report generation/user
-account problem or bug fixing.
+• The building, deploying, configuring and monitoring WebLogic Server Domains, Managed and Admin Servers, clusters, JDBC connection pools/Data sources, JMS Server and Modules.
+• Handling Break fixing tasks like Password resets/Disk space maintenance/Re-running the Jobs/report generation/user account problem or bug fixing.
 • Planned Weblogic Server Cluster Migration and singleton service for different applications.
 • Actively participating in monthly SOX Audit for all production users ID and their authentications.
