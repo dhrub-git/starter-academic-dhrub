@@ -23,13 +23,13 @@ twitter: ''
 email: dhrubjyoti.biswas@gmail.com
 phone: +61 413 699 829
 address:
-  street: U11 217-221 Carlingford Road
+  street: U11, 217-221 Carlingford Road
   city: Carlingford
   state: NSW
   postcode: '2118'
   country: Australia
   country_code: AU
-appointment_url: 'https://calendly.com'
+appointment_url: 'https://calendly.com/dhrub'
 contact_links:
   - icon: twitter
     icon_pack: fab
